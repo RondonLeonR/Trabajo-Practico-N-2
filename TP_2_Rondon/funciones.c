@@ -171,8 +171,9 @@ void ePer_GraficoEdades(ePersona listaPersonas[],int limite)
     int contadorEdadMenor[50];
     int contadorEdadMedio[50];
     int contadorEdadMayor[50];
-
-    for(int i=0;i<limite;i++)
+    int i;
+    int j;
+    for(i=0;i<limite;i++)
     {
         if(listaPersonas[i].estado==OCUP){
         if(listaPersonas[i].edad<=18)
@@ -196,7 +197,7 @@ void ePer_GraficoEdades(ePersona listaPersonas[],int limite)
         }
     }
 
-    for(int j=0;j<limite;j++)
+    for(j=0;j<limite;j++)
     {
         if(listaPersonas[j].estado==OCUP){
         printf("    %d        %d        %d\n",contadorEdadMenor[j],contadorEdadMedio[j],contadorEdadMayor[j]);

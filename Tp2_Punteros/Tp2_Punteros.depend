@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1526652219 source:c:\users\alumno\desktop\rondon\trabajo-practico-n-2\tp2_punteros\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1526652219 c:\users\alumno\desktop\rondon\trabajo-practico-n-2\tp2_punteros\funciones.h
+

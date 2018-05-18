@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1526649501 source:c:\users\alumno\desktop\rondon\trabajo-practico-n-2\tp_2_rondon\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1526649119 c:\users\alumno\desktop\rondon\trabajo-practico-n-2\tp_2_rondon\funciones.h
+
+1526649119 source:c:\users\alumno\desktop\rondon\trabajo-practico-n-2\tp_2_rondon\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
